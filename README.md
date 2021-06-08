@@ -1,4 +1,4 @@
-# CLIMADA_WildFire_Paper
+# CLIMADA WildFire Paper
 This repository contains a folder for the code used in a research article. The code replicates the figures and explains software components implemented in [CLIMADA Python](https://github.com/CLIMADA-project/climada_python).
 
 Lüthi, S., Aznar-Siguan, G., Fairless, C., and Bresch, D. N.: Globally consistent assessment of economic impacts of wildfires (submitted)
